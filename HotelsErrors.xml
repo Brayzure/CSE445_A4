@@ -1,0 +1,24 @@
+<Hotel>
+	<Hotel Rating="2.1">
+		<Name>Best Western</Name>
+		<Address NearestAirport="Sky Harbor">
+			<Number>123</Number>
+			<Street>Test St.</Street>
+			<City>Peoria</City>
+			<State>AZ</State>
+			<Zip>85381</Zip>
+	</Hotel>
+	<Hotel>
+		<Name>Choice</Name>
+		<Name>Choice2</Name>
+		<Phone>123-456-7890</Phone>
+		<Phone>987-654-3210</Phone>
+		<Address>
+			<Number>123</Number>
+			<Street>Test St.</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>88888</Zip>
+		</Address>
+	</Hotel>
+</Hotel>
